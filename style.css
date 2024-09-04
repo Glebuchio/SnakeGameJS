@@ -1,0 +1,29 @@
+
+#gameContainer {
+    text-align: center;
+}
+
+/*Игровая доска*/
+#gameBoard {
+    border: 3px solid;
+}
+
+/*Текст результата*/
+#scoreText {
+    font-family: "Permament Marker", cursive;
+    font-size: 100px;
+}
+
+/*Кнопка reset*/
+#resetBotom {
+    font-family: "Permament Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+
+    /*Наведение курсора мыши*/
+    
+    cursor: pointer;
+}
